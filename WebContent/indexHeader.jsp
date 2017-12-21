@@ -13,18 +13,20 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="index.jsp"><img src="logo.png" alt="logo"  style="width:250px;height:65px;margin-right: 39px;margin-top:-15px"/></a><br><br>
+      <a class="navbar-brand" href="index.jsp" style="margin-bottom:25px"><img src="logo.png" alt="logo"  style="width:250px;height:100px;margin-right: 39px;margin-top:-30px "/></a><br><br>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-       <li> <input type="text" name="search" placeholder="Search.."></li>
+       <li> <input type="text" name="search" placeholder="Search.." style="margin-top: 15px;"></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
        <li> <div class="dropdown">
-<img src="nin.png" alt="Avatar" style="width:50px;height:50px;margin-right: 39px;" onclick="myFunction()" class="dropbtn" />
+<img src="nin.png" alt="Avatar" style="width:65px;height:60px;margin-right: 39px;margin-top:12px" onclick="myFunction()" class="dropbtn" />
   <div id="myDropdown" class="dropdown-content">
     <a href="#home">Profile Details</a>
     <a href="#about">Your Rank</a>
+    <hr/>
+    <a href="#logout">Logout</a>
     
   </div>
 </div>    
