@@ -117,13 +117,33 @@ input[type=text]:focus {
 <div class="container-fluid text-center">    
   <div class="row content">
     <div class="col-sm-2 sidenav" style="background-color:#feffff">
-   <!--  <div class="list-group">
+    <div class="list-group">
     <a href="#" class="list-group-item active">Java</a>
     <a href="#" class="list-group-item">Second item</a>
     <a href="#" class="list-group-item">Third item</a>
-  </div> -->
+  </div>
     </div>
     <div class="col-sm-8 text-left" > 
+      <h1>Welcome</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <hr>
+      <h3>Test</h3>
+      <p>Lorem ipsum...</p>
+    </div>
+    <div class="col-sm-2 sidenav" style="background-color:#feffff">
+      <div class="well">
+        <p>ADS</p>
+      </div>
+      <div class="well">
+        <p>ADS</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
 <!-- service tag -->
 <div class="container-fluid text-center">
   <h2>SERVICES</h2>
@@ -162,17 +182,6 @@ input[type=text]:focus {
       <span class="glyphicon glyphicon-wrench"></span>
       <h4 style="color:#303030;">HARD WORK</h4>
       <p>Lorem ipsum dolor sit amet..</p>
-    </div>
-  </div>
-</div>
-    </div>
-    <div class="col-sm-2 sidenav" style="background-color:#feffff">
-      <div class="well">
-        <p>ADS</p>
-      </div>
-      <div class="well">
-        <p>ADS</p>
-      </div>
     </div>
   </div>
 </div>
