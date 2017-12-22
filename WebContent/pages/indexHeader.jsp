@@ -13,6 +13,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
+      
       <a class="navbar-brand" href="index.jsp" style="margin-bottom:25px"><img src="logo.png" alt="logo"  style="width:250px;height:100px;margin-right: 39px;margin-top:-30px "/></a><br><br>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">

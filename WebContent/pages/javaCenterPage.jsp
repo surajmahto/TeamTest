@@ -22,9 +22,9 @@
 							<div id="collapse1" class="panel-collapse collapse in">
 								<div class="panel-body" style="padding: 0px;">
 									<div class="list-group">
-										<a href="" class="list-group-item ">Introduction of Java</a> <a
-											href="#" class="list-group-item">History of java</a> <a href="#"
-											class="list-group-item">Before learning java</a>
+										<a href="#intro" class="list-group-item">Introduction of Java</a> 
+										<a href="#intro1" class="list-group-item" >History of java</a> 
+											<a href="#intro2" class="list-group-item">Before learning java</a>
 									</div>
 								</div>
 							</div>
@@ -102,7 +102,7 @@
 				</div>
 			</div>
 			<div class="col-sm-8 text-left">
-				<h1>Welcome</h1>
+				<h1 id="intro">Introduction</h1>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
 					do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
 					enim ad minim veniam, quis nostrud exercitation ullamco laboris
@@ -119,7 +119,9 @@
 					anim id est laborum consectetur adipiscing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
 					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+					aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, 
+					consectetur adipiscing elit, sed
+					<h1 id="intro1">Introduction 1</h1>
 					do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
 					enim ad minim veniam, quis nostrud exercitation ullamco laboris
 					nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat
@@ -222,7 +224,9 @@
 					cupidatat non proident, sunt in culpa qui officia deserunt mollit
 					anim id est laborum consectetur adipiscing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+					minim veniam,
+					<h1 id="intro2">Introduction2</h1>
+					 quis nostrud exercitation ullamco laboris nisi ut
 					aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
 					do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
 					enim ad minim veniam, quis nostrud exercitation ullamco laboris
